@@ -18,12 +18,12 @@
 
 <div align="center">
     <p align="center">
-        <a href="https://github.com/the-oss-everythig-bot/the-oss-everything-bot/forks">
-            <img alt="Forks" src="https://img.shields.io/github/commit-activity/m/the-oss-everything-bot/the-oss-everything-bot?style=for-the-badge&logo=git&color=EBA0AC&logoColor=EBA0AC&labelColor=302D41"></a>
-        <a href="https://github.com/the-oss-everything-bot/the-oss-everything-bot">
-            <img alt="Repo size" src="https://img.shields.io/github/repo-size/the-oss-everything-bot/the-oss-everything-bot?style=for-the-badge&logo=github&color=FAB387&logoColor=FAB387&labelColor=302D41"/></a>
-        <a href="https://github.com/the-oss-everything-bot/the-oss-everything-bot/issues">
-            <img alt="Issues" src="https://img.shields.io/github/issues/the-oss-everything-bot/the-oss-everything-bot?style=for-the-badge&logo=githubactions&color=F9E2AF&logoColor=F9E2AF&labelColor=302D41"></a>
+        <a href="https://github.com/the-oss-everythig-bot/api/forks">
+            <img alt="Forks" src="https://img.shields.io/github/commit-activity/m/the-oss-everything-bot/api?style=for-the-badge&logo=git&color=EBA0AC&logoColor=EBA0AC&labelColor=302D41"></a>
+        <a href="https://github.com/the-oss-everything-bot/api">
+            <img alt="Repo size" src="https://img.shields.io/github/repo-size/the-oss-everything-bot/api?style=for-the-badge&logo=github&color=FAB387&logoColor=FAB387&labelColor=302D41"/></a>
+        <a href="https://github.com/the-oss-everything-bot/api/issues">
+            <img alt="Issues" src="https://img.shields.io/github/issues/the-oss-everything-bot/api?style=for-the-badge&logo=githubactions&color=F9E2AF&logoColor=F9E2AF&labelColor=302D41"></a>
         <a href="https://discord.gg/awfixer">
             <img alt="Discord" src="https://img.shields.io/discord/1297444443103956992?style=for-the-badge&logo=discord&color=B4BEFE&logoColor=B4BEFE&labelColor=302D41"></a>
     </p>

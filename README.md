@@ -30,7 +30,7 @@
 </div>
 
 > [!WARNING]
-**This bot (without plenty of tweaking) is not ready for production use, we suggest against using it until announced. Join our support server: [AWFixer and Friends](https://discord.gg/awfixer) for more info!**
+**This API is dependant on the main bot, and will not work without it.**
 
 ## About
 
@@ -40,7 +40,7 @@ The original idea for this bot is that no bot does what we want, and since they 
  **<h3 align="left">A discord application that does everything, is open source, and can be contributed  to by anyone. Sound interesting? We hope so! Join us on Discord and you can keep track of development and talk to us about what you think. We hope to see you there.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
- 
+
 - 💼 We are currently working on: **💻 making sure this API is OpenAPI Spec compatible**
 - 🌱 We currently learning: **📚 All of the things**
 - 💬 Ask us about: **💡 Why Discord is the reason their applications usually suck**
@@ -57,16 +57,17 @@ The original idea for this bot is that no bot does what we want, and since they 
 
 ## Current Features
 
-- Status Monitoring (commands in main bot)
+- |
 
 ### Features in Progress
 
 - Automoderation handlers
 - AI Driven Automod connections
-- database
+- database management
 - Endpoint Use
 - New OATH2 Setup
 - basic logging
+- GPT API linked to self-hosted Ollama
 
 ### Desired Features
 
@@ -78,6 +79,60 @@ The original idea for this bot is that no bot does what we want, and since they 
 - supabase
 - mongodb (main bot)
 - postgresql (for custom bots)
+- integration with other platforms
+  - twitch
+  - youtube
+  - twitter
+  - facebook
+  - instagram
+  - snapchat
+  - tiktok
+  - linkedin
+  - reddit
+  - discord
+  - slack
+  - telegram
+  - signal
+  - whatsapp
+  - wechat
+  - line
+  - kik
+  - skype
+  - zoom
+  - teams
+  - webex
+  - jitsi
+  - bigbluebutton
+  - google meet
+  - spotify
+  - apple music
+  - soundcloud
+
+ - integrations with payment and support platforms
+  - paypal
+  - stripe
+  - square
+  - venmo
+  - cashapp
+  - zelle
+  - apple pay
+  - google pay
+  - samsung pay
+  - amazon pay
+  - shopify pay
+  - klarna
+  - afterpay
+  - affirm
+  - sezzle
+  - quadpay
+  - klarna
+  - affirm
+  - patreon
+  - gofundme
+  - kickstarter
+  - indiegogo
+  - buymeacoffee
+  - ko-fi
 
 #### Languages Used
 
